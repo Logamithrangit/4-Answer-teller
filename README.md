@@ -55,3 +55,5 @@ Let's continue(yes/no): yes
 Ask a question(1/2/3/4): 2
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.It is used for:web development (server-side),software development,mathematics,system scripting.
 Let's continue(yes/no): no
+
+you can copy and paste it on any online python compiler i tried it on programiz
